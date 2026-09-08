@@ -134,7 +134,7 @@ The dashboard gives a high-level view of appointment volume, patient coverage, w
 ### 🖥️ Dashboard Preview
 
 <p align="center">
-  <img src="./dashboard.png" alt="Appointment No-Show Analysis Power BI Dashboard" width="100%">
+  <img src="./dashboard(1).png" alt="Appointment No-Show Analysis Power BI Dashboard" width="100%">
 </p>
 
 ---
